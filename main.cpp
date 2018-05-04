@@ -38,6 +38,7 @@
 // using
 using namespace std;
 using namespace boost;
+using namespace ybur;
 
 int wmain(int argc, wchar_t** argv)
 {
